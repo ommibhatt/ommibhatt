@@ -19,7 +19,7 @@
 
 ---
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/ommibhatt/ommibhatt/blob/main/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=ommibhatt&pretty=true)](https://visitcount.itsvg.in)
