@@ -1,7 +1,6 @@
-# 💫 About Me:
-I'm currently a final-year B.Tech student at GLA University, Mathura.<br>.<br>I like to code in C, C++, Python.
 <h1 align="center"> Hi 👋🏻, I'm OM BHATT </br> 
 </h1>
+<p align="center">I'm currently a final-year B.Tech student at GLA University 👨‍🎓</p>
 <p align="center">I love Playing CTF challenges & exploring new technologies ⚡</p>
 <p align="center">I like to code in C, C++, Python. 🚀</p>
 <p align="center">
