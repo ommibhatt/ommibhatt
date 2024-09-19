@@ -16,7 +16,7 @@
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=ommibhatt&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 ### Thanks for Visiting my GitHub Profile!
 
