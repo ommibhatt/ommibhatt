@@ -1,5 +1,3 @@
-g0g90)U0g000
-
 <h1 align="center"> Hi 👋🏻, I'm OM BHATT </br> 
 </h1>
 <p align="center">I'm currently a final-year B.Tech student at GLA University 👨‍🎓</p>
