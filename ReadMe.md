@@ -2,7 +2,7 @@
 </h1>
 <p align="center">I'm currently a final-year B.Tech student at GLA University 👨‍🎓</p>
 <p align="center">I love Playing CTF challenges & exploring new technologies ⚡</p>
-<p align="center">I like to code in C, C++, Python. 🚀</p>
+<p align="center">I like to code in C, Python. 🚀</p>
 <p align="center">
 <a href="https://linkedin.com/in/ombhatt-ece" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://x.com/OmmiBhatt" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
