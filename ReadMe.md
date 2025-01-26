@@ -33,9 +33,6 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ommibhatt&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
-## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=ommibhatt&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
 ### Thanks for Visiting my GitHub Profile!
 
 ---
